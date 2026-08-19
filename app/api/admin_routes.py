@@ -27,4 +27,3 @@ def get_audit_logs():
         'page': logs_pagination.page,
         'pages': logs_pagination.pages
     }), 200
-
